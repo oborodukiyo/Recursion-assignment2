@@ -1,3 +1,20 @@
 .bg-main {
   background: #2073D4;
 }
+
+.l-height {
+  height: 2rem;
+}
+
+.m-height {
+  height: 1.5rem;  
+}
+
+.s-height {
+  height: 1rem;
+}
+
+.b-height {
+  height: 3rem;
+  box-shadow: 0px 4px 4px gray;
+}
