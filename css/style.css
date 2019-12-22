@@ -3,16 +3,6 @@ body {
   font-family: "Lato" "Noto Sans JP";
 }
 
-/* 背景色を#2073D4 */
-.bg-main {
-  background: #2073D4;
-}
-
-/* 文字の色を#2073D4 */
-.text-main {
-  color:  #2073D4;
-}
-
 /* heightを2remに */
 .l-height {
   height: 2rem;
