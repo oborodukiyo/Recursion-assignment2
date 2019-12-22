@@ -1,26 +1,8 @@
 /* bodyの設定 */
 body {
   font-family: "Lato" "Noto Sans JP";
-}
-
-/* heightを2remに */
-.l-height {
-  height: 2rem;
-}
-
-/* heightを1.5remに */
-.m-height {
-  height: 1.5rem;
-}
-
-/* heightを1remに */
-.s-height {
-  height: 1rem;
-}
-
-.b-height {
-  height: 3rem;
-  box-shadow: 0px 4px 4px gray;
+  width: 100vw;
+  line-height: 2rem;
 }
 
 /* 太字 */
@@ -32,4 +14,28 @@ body {
 .flex-center {
   display: flex;
   justify-content: center;
+}
+
+/* h1～h3スタイル */
+h1 {
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+h3 {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+/* メインボタン */
+.btn-main {
+  padding: 1rem 5rem 1rem 5rem;
+  margin: 3rem;
+  font-size: 1rem;
+  font-weight: 700;
 }
