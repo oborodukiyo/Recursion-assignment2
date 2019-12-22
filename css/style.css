@@ -1,15 +1,29 @@
+/* bodyの設定 */
+body {
+  font-family: "Lato" "Noto Sans JP";
+}
+
+/* 背景色を#2073D4 */
 .bg-main {
   background: #2073D4;
 }
 
+/* 文字の色を#2073D4 */
+.text-main {
+  color:  #2073D4;
+}
+
+/* heightを2remに */
 .l-height {
   height: 2rem;
 }
 
+/* heightを1.5remに */
 .m-height {
-  height: 1.5rem;  
+  height: 1.5rem;
 }
 
+/* heightを1remに */
 .s-height {
   height: 1rem;
 }
@@ -17,4 +31,15 @@
 .b-height {
   height: 3rem;
   box-shadow: 0px 4px 4px gray;
+}
+
+/* 太字 */
+.fw700 {
+  font-weight: 700;
+}
+
+/* 水平方向中央ぞろえ */
+.flex-center {
+  display: flex;
+  justify-content: center;
 }
