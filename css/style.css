@@ -42,3 +42,7 @@
   line-height: 2.0rem;
 }
 
+.checkmark {
+  background: black;
+  border-radius: 50%;
+}
