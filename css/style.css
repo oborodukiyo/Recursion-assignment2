@@ -14,7 +14,31 @@
   height: 1rem;
 }
 
-.b-height {
+.xl-height {
+  height: 2.5rem;
+}
+
+.xxl-height {
   height: 3rem;
+}
+
+.box-shadow {
   box-shadow: 0px 4px 4px gray;
 }
+
+.bold {
+  font-weight: bold;
+}
+
+.h2 {
+  font-size: 2rem;
+}
+
+.h3 {
+  font-size: 1.5rem;
+}
+
+.line-h {
+  line-height: 2.0rem;
+}
+
