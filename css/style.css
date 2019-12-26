@@ -1,6 +1,6 @@
 /* bodyの設定 */
 body {
-  font-family: "Lato" "Noto Sans JP";
+  font-family: 'Lato','Noto Sans JP';
   width: 100vw;
   line-height: 2rem;
 }
